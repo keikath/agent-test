@@ -1,0 +1,6 @@
+for i in (2 to 8)
+{
+  x+y=4,
+  y=3, 
+  print(x*11) 
+}
